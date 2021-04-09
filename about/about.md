@@ -39,5 +39,5 @@
 
 ***结果导向***、***积极负责***、***团队管理***、***技术服务业务***
 
-***Hive***、***Spark(Spark Streaming)***、***Kafka***、***Sqoop***
+***Hive***、***Flink***、***Spark(Spark Streaming)***、***Kafka***、***Sqoop***、***HDFS***、***ClickHouse***
 
